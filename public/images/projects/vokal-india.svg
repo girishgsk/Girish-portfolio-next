@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(200,55%,22%)"/><stop offset="1" stop-color="hsl(250,60%,12%)"/></linearGradient>
+<pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="675" fill="url(#g)"/><rect width="1200" height="675" fill="url(#p)"/>
+<rect x="150" y="150" width="900" height="375" rx="20" fill="#0a0e14" fill-opacity=".55" stroke="#fff" stroke-opacity=".15"/>
+<circle cx="190" cy="185" r="7" fill="#ff5f57"/><circle cx="215" cy="185" r="7" fill="#febc2e"/><circle cx="240" cy="185" r="7" fill="#28c840"/>
+<text x="600" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="64" fill="#fff">Vokal India</text>
+<text x="600" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#fff" fill-opacity=".65">Community platform</text>
+<text x="600" y="490" text-anchor="middle" font-family="monospace" font-size="20" fill="#fff" fill-opacity=".4">placeholder preview</text>
+</svg>

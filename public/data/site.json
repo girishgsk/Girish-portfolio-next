@@ -1,0 +1,38 @@
+{
+  "name": "Girish Kumbhar",
+  "title": "Girish Kumbhar | Full-Stack Software Engineer, React & MERN Developer",
+  "description": "Portfolio of Girish Kumbhar, a full-stack software engineer with 2 years of experience building scalable web and mobile apps with React.js, React Native, Next.js, Node.js and the MERN stack.",
+  "url": "https://girish-portfolio-gsk.netlify.app",
+  "locale": "en_IN",
+  "twitterHandle": "",
+  "lastUpdated": "2026-10-26",
+  "keywords": [
+    "Girish Kumbhar",
+    "full-stack software engineer",
+    "React developer",
+    "MERN stack developer",
+    "React Native developer",
+    "Next.js developer",
+    "software engineer portfolio",
+    "Node.js developer India"
+  ],
+  "verification": { "google": "" },
+  "pages": {
+    "home": {
+      "title": "Girish Kumbhar | Full-Stack Software Engineer, React & MERN Developer",
+      "description": "Girish Kumbhar is a full-stack software engineer building scalable web and mobile products with React, Next.js, Node.js and React Native. Explore his work, skills and experience."
+    },
+    "skills": {
+      "title": "Skills & Technologies",
+      "description": "Technical skills of Girish Kumbhar with years of hands-on experience across JavaScript, React, Next.js, Node.js, Django, databases and developer tooling."
+    },
+    "experience": {
+      "title": "Work Experience & Products Built",
+      "description": "Professional experience of Girish Kumbhar as Lead Software Engineer and Founding Software Engineer, including AdhyaGuru, Vokal India and Poster Boy."
+    },
+    "projects": {
+      "title": "Academic Projects",
+      "description": "Academic and personal projects by Girish Kumbhar, including a MERN content management system and a Node.js request rate limiter."
+    }
+  }
+}

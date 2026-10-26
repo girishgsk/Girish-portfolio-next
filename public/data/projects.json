@@ -1,0 +1,31 @@
+[
+  {
+    "id": "mern-cms",
+    "title": "MERN Content Management System",
+    "subtitle": "Academic project",
+    "description": "A high-performance CMS that enables multi-author collaboration, dynamic content updates and secure publication workflows.",
+    "highlights": [
+      "Full CRUD functionality with login and signup authentication.",
+      "Secure role-based access control (RBAC) to protect data integrity."
+    ],
+    "tech": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT"],
+    "image": "/images/projects/cms.svg",
+    "imageAlt": "MERN Content Management System preview",
+    "liveUrl": null,
+    "githubUrl": "https://github.com/girishgsk/CMS-Application-frontEnd"
+  },
+  {
+    "id": "rate-limiter",
+    "title": "Node.js Request Rate Limiter",
+    "subtitle": "Academic project",
+    "description": "A middleware that regulates API traffic, enforcing a limit of 1 task per second and 20 tasks per minute for each user.",
+    "highlights": [
+      "Queuing mechanism for burst traffic so excess requests are processed sequentially instead of rejected."
+    ],
+    "tech": ["Node.js", "Express.js", "Middleware", "Queues"],
+    "image": "/images/projects/rate-limiter.svg",
+    "imageAlt": "Node.js request rate limiter preview",
+    "liveUrl": null,
+    "githubUrl": "https://github.com/girishgsk/Rate-Limiter-using-Nodejs-"
+  }
+]

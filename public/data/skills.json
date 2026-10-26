@@ -1,0 +1,63 @@
+[
+  {
+    "id": "languages",
+    "title": "Languages",
+    "description": "Core languages used across web and backend work.",
+    "skills": [
+      { "name": "JavaScript (ES6+)", "years": 2 },
+      { "name": "Python", "years": 1.5 },
+      { "name": "HTML5", "years": 2 },
+      { "name": "CSS3", "years": 2 }
+    ]
+  },
+  {
+    "id": "frontend",
+    "title": "Frontend & Mobile",
+    "description": "Interfaces for the web and for mobile devices.",
+    "skills": [
+      { "name": "React.js", "years": 2 },
+      { "name": "React Native", "years": 1.5 },
+      { "name": "Next.js", "years": 1.5 },
+      { "name": "Angular", "years": 0.5 },
+      { "name": "Tailwind CSS", "years": 2 },
+      { "name": "Bootstrap", "years": 1 }
+    ]
+  },
+  {
+    "id": "backend",
+    "title": "Backend",
+    "description": "APIs, authentication and server-side logic.",
+    "skills": [
+      { "name": "Node.js", "years": 2 },
+      { "name": "Express.js", "years": 2 },
+      { "name": "Django", "years": 1.5 },
+      { "name": "FastAPI", "years": 1 },
+      { "name": "RESTful APIs", "years": 2 },
+      { "name": "OAuth2 / JWT", "years": 1.5 }
+    ]
+  },
+  {
+    "id": "databases",
+    "title": "Databases",
+    "description": "Relational and document data stores.",
+    "skills": [
+      { "name": "MongoDB", "years": 1 },
+      { "name": "PostgreSQL", "years": 1.5 },
+      { "name": "SQL", "years": 1.5 },
+      { "name": "Supabase", "years": 1 }
+    ]
+  },
+  {
+    "id": "tools",
+    "title": "Tools & Automation",
+    "description": "Tooling for delivery, testing, outreach and automation.",
+    "skills": [
+      { "name": "Git", "years": 2 },
+      { "name": "Linux / Bash", "years": 1 },
+      { "name": "Postman", "years": 2 },
+      { "name": "Playwright", "years": 1 },
+      { "name": "Apollo.io", "years": 1 },
+      { "name": "Mailchimp", "years": 1 }
+    ]
+  }
+]

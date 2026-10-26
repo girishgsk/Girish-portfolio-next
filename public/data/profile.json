@@ -1,0 +1,22 @@
+{
+  "name": "Girish Kumbhar",
+  "firstName": "Girish",
+  "headline": "Full-Stack Software Engineer",
+  "roles": ["Full-Stack Software Engineer", "React Developer", "MERN Stack Developer"],
+  "summary": "I architect, debug and deploy high-performance web and mobile applications, with a focus on the MERN stack, React.js and React Native.",
+  "intro": [
+    "I'm a software engineer with 2 years of experience delivering scalable, user-centric products inside collaborative agile teams. My core stack is the MERN stack, React.js and React Native, backed by Next.js, Django and Supabase.",
+    "Right now I'm leading the build of AdhyaGuru, an AI-based EdTech platform. Before that, as a founding engineer at Zenovation Solution, I shipped Vokal India, a verified community app that grew past 3,000 members, and Poster Boy, a billboard booking marketplace."
+  ],
+  "location": "India",
+  "email": "girishkumbhar1450@gmail.com",
+  "avatar": "/images/avatar.svg",
+  "avatarAlt": "Portrait of Girish Kumbhar",
+  "logo": "/images/logo.svg",
+  "resumeUrl": "https://drive.google.com/file/d/1ikZ83a1oKzQlmLJriCSbaXFh_ZoKAz55/view?usp=sharing",
+  "stats": [
+    { "label": "Years of experience", "value": "2+" },
+    { "label": "Community members scaled", "value": "3,000+" },
+    { "label": "Products shipped", "value": "3" }
+  ]
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "global-cyber-assurance",
+    "role": "Software Engineer",
+    "employmentType": "Contract",
+    "company": "Global Cyber Assurance",
+    "companyUrl": null,
+    "location": null,
+    "startDate": "2026-06",
+    "endDate": null,
+    "summary": "Leading development of an AI-powered home tuition platform that delivers personalised learning for students.",
+    "highlights": [
+      "Lead planning and development of the AdhyaGuru platform, defining technical architecture, development priorities and feature requirements.",
+      "Built core features with Next.js, Node.js and Supabase, covering frontend workflows, backend APIs, authentication and database integration.",
+      "Planned the AI roadmap and worked with the AI developer to integrate personalised learning and teaching capabilities.",
+      "Lead the technical team: break down requirements, assign tasks, review implementations and coordinate frontend, backend and AI work."
+    ],
+    "tech": ["Next.js", "Node.js", "Supabase", "AI integration"],
+    "projects": [
+      {
+        "id": "adhyaguru",
+        "title": "AdhyaGuru",
+        "subtitle": "AI-based EdTech platform",
+        "description": "An AI-powered home tuition platform that provides personalised learning experiences for students.",
+        "highlights": [
+          "Architecture designed for AI-driven personalised learning, student progress tracking, parent monitoring and interactive teacher experiences.",
+          "Full-stack build on Next.js, Node.js and Supabase with authentication and database integration."
+        ],
+        "tech": ["Next.js", "Node.js", "Supabase", "AI"],
+        "image": "/images/projects/adhyaguru.png",
+        "imageAlt": "AdhyaGuru project preview",
+        "liveUrl": "https://adhyaguru.com/",
+        "githubUrl": null
+      }
+    ]
+  },
+  {
+    "id": "zenovation-solution",
+    "role": "Founding Software Engineer",
+    "employmentType": "Product-based",
+    "company": "Zenovation Solution",
+    "companyUrl": null,
+    "location": null,
+    "startDate": "2024-10",
+    "endDate": "2026-06",
+    "summary": "Founding engineer building mobile and web products from the ground up across community and ad-tech.",
+    "highlights": [
+      "Led full-stack development of Vokal India and scaled it to 3,000+ members with React.js and React Native apps.",
+      "Built a modular UI component library that improved development speed and kept the experience consistent across devices.",
+      "Designed logic for localised, geo-fenced channels and verified-only user permissions to keep the platform safe.",
+      "Optimised Django backend APIs to cut data loading times as the user base grew.",
+      "Developed the Poster Boy booking platform with real-time inventory, plus lead generation and email automation with Apollo.io and Mailchimp."
+    ],
+    "tech": ["React.js", "React Native", "Django", "Python", "Playwright", "Apollo.io", "Mailchimp"],
+    "projects": [
+      {
+        "id": "vokal-india",
+        "title": "Vokal India",
+        "subtitle": "Community platform",
+        "description": "A secure social app that uses identity verification to prevent fake accounts and bots.",
+        "highlights": [
+          "Scaled the user base to 3,000+ members with mobile and web apps built in React.js and React Native.",
+          "Built a modular UI component library for faster development and a smooth experience on every device.",
+          "Designed geo-fenced channels and verified-only permissions; optimised Django APIs for fast data loading."
+        ],
+        "tech": ["React.js", "React Native", "Django"],
+        "image": "/images/projects/vokalindia.png",
+        "imageAlt": "Vokal India project preview",
+        "liveUrl": "https://play.google.com/store/apps/details?id=com.harshtripathi2.vokalindiamobile&hl=en_IN",
+        "githubUrl": null
+      },
+      {
+        "id": "poster-boy",
+        "title": "Poster Boy",
+        "subtitle": "Ad-tech marketplace",
+        "description": "An online platform for booking billboard spaces that connects advertisers with billboard owners.",
+        "highlights": [
+          "Mobile-friendly web interface that simplified the booking process.",
+          "Django backend handling real-time inventory and booking data.",
+          "Lead generation with Apollo.io and automated Mailchimp workflows to improve conversion."
+        ],
+        "tech": ["Web", "Django", "Apollo.io", "Mailchimp"],
+        "image": "/images/projects/theposterboy.png",
+        "imageAlt": "Poster Boy project preview",
+        "liveUrl": "https://theposterboy.in/",
+        "githubUrl": null
+      },
+      {
+        "id": "gov-data-automation",
+        "title": "Government Data Automation",
+        "subtitle": "Technical problem solving",
+        "description": "Vokal needed district-level government datasets (tenders, political metrics) but the public portals had no official APIs. I built a Python and Playwright framework to extract the data from structured HTML.",
+        "highlights": [
+          "Validation pipeline that cleans data and pushes it to backend services over REST APIs.",
+          "Comprehensive logging and failure-recovery mechanisms."
+        ],
+        "tech": ["Python", "Playwright", "REST APIs"],
+        "image": "/images/projects/data-automation.svg",
+        "imageAlt": "Government data automation project preview",
+        "liveUrl": null,
+        "githubUrl": "https://github.com/girishgsk/Scraping-Problem-Solving"
+      }
+    ]
+  }
+]

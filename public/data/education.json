@@ -1,0 +1,36 @@
+{
+  "education": [
+    {
+      "id": "pdea",
+      "institution": "PDEA's College of Engineering, Manjri, Pune",
+      "degree": "B.E. Computer Science",
+      "startDate": "2020-07",
+      "endDate": "2024-05",
+      "grade": "CGPA 8.64 / 10"
+    },
+    {
+      "id": "disha",
+      "institution": "Disha Public School and Jr. College, Wai",
+      "degree": "Maharashtra State Board (HSC)",
+      "startDate": "2018-05",
+      "endDate": "2020-05",
+      "grade": "65%"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "react-internshala",
+      "title": "React.js Certification",
+      "issuer": "Internshala",
+      "description": "Completed the comprehensive Advanced React course.",
+      "url": "https://drive.google.com/file/d/1MuOxH_tKRXjsoStvVI1defsqa5rS0MQm/view?usp=drive_link"
+    },
+    {
+      "id": "mern-udemy",
+      "title": "Full-Stack MERN Mastery",
+      "issuer": "Udemy",
+      "description": "MERN stack development certification.",
+      "url": "https://drive.google.com/file/d/1MuOxH_tKRXjsoStvVI1defsqa5rS0MQm/view?usp=drive_link"
+    }
+  ]
+}

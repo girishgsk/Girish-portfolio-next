@@ -1,0 +1,7 @@
+[
+  { "id": "github", "label": "GitHub", "url": "https://github.com/girishgsk", "icon": "github" },
+  { "id": "linkedin", "label": "LinkedIn", "url": "https://www.linkedin.com/in/girish-kumbhar-78165b20a", "icon": "linkedin" },
+  { "id": "leetcode", "label": "LeetCode", "url": "https://leetcode.com/u/Girishgsk1450/", "icon": "leetcode" },
+  { "id": "instagram", "label": "Instagram", "url": "https://www.instagram.com/", "icon": "instagram" },
+  { "id": "email", "label": "Email", "url": "mailto:girishkumbhar1450@gmail.com", "icon": "email" }
+]
